@@ -1,1 +1,2 @@
 # SpeechRecognitioneasy
+how it work
